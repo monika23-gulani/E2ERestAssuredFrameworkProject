@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cucumber.Options.TestRunner" time="14.287" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\monika23\eclipse-workspace\API\target\test-classes;C:\Users\monika23\eclipse-workspace\API\target\classes;C:\Users\monika23\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\monika23\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\monika23\.m2\repository\io\rest-assured\rest-assured\5.5.1\rest-assured-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\monika23\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\monika23\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\monika23\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\monika23\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\monika23\.m2\repository\io\rest-assured\json-path\5.5.1\json-path-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\monika23\.m2\repository\io\rest-assured\rest-assured-common\5.5.1\rest-assured-common-5.5.1.jar;C:\Users\monika23\.m2\repository\io\rest-assured\xml-path\5.5.1\xml-path-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\commons\commons-lang3\3.16.0\commons-lang3-3.16.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-java\7.22.0\cucumber-java-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-core\7.22.0\cucumber-core-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-gherkin\7.22.0\cucumber-gherkin-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.0\cucumber-gherkin-messages-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\gherkin\32.1.0\gherkin-32.1.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\datatable\7.22.0\datatable-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-plugin\7.22.0\cucumber-plugin-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\docstring\7.22.0\docstring-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\html-formatter\21.10.0\html-formatter-21.10.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\monika23\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-junit\7.22.0\cucumber-junit-7.22.0.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.3\jackson-databind-2.18.3.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.3\jackson-annotations-2.18.3.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.3\jackson-core-2.18.3.jar;C:\Users\monika23\.m2\repository\org\codehaus\groovy\groovy\3.0.24\groovy-3.0.24.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\monika23\AppData\Local\Temp\surefire1961773287479755550\surefirebooter-20250414233303055_3.jar C:\Users\monika23\AppData\Local\Temp\surefire1961773287479755550 2025-04-14T23-33-02_663-jvmRun1 surefire-20250414233303055_1tmp surefire_0-20250414233303055_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\monika23\eclipse-workspace\API\target\test-classes;C:\Users\monika23\eclipse-workspace\API\target\classes;C:\Users\monika23\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\monika23\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\monika23\.m2\repository\io\rest-assured\rest-assured\5.5.1\rest-assured-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\monika23\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\monika23\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\monika23\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\monika23\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\monika23\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\monika23\.m2\repository\io\rest-assured\json-path\5.5.1\json-path-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\monika23\.m2\repository\io\rest-assured\rest-assured-common\5.5.1\rest-assured-common-5.5.1.jar;C:\Users\monika23\.m2\repository\io\rest-assured\xml-path\5.5.1\xml-path-5.5.1.jar;C:\Users\monika23\.m2\repository\org\apache\commons\commons-lang3\3.16.0\commons-lang3-3.16.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-java\7.22.0\cucumber-java-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-core\7.22.0\cucumber-core-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-gherkin\7.22.0\cucumber-gherkin-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.0\cucumber-gherkin-messages-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\gherkin\32.1.0\gherkin-32.1.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\datatable\7.22.0\datatable-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-plugin\7.22.0\cucumber-plugin-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\docstring\7.22.0\docstring-7.22.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\html-formatter\21.10.0\html-formatter-21.10.0.jar;C:\Users\monika23\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\monika23\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\monika23\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\monika23\.m2\repository\io\cucumber\cucumber-junit\7.22.0\cucumber-junit-7.22.0.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.18.3\jackson-databind-2.18.3.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.18.3\jackson-annotations-2.18.3.jar;C:\Users\monika23\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.18.3\jackson-core-2.18.3.jar;C:\Users\monika23\.m2\repository\org\codehaus\groovy\groovy\3.0.24\groovy-3.0.24.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\monika23"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\monika23\eclipse-workspace\API"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\monika23\AppData\Local\Temp\surefire1961773287479755550\surefirebooter-20250414233303055_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
+    <property name="user.name" value="monika23"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\monika23\.m2\repository"/>
+    <property name="cucumber.options" value="--tags @Regression"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\monika23\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="C:\Users\monika23\eclipse-workspace\API"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PowerShell\7;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.432.6-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Groovy\\bin;C:\Program Files (x86)\Groovy\bin;C:\common\rd\tools\maven-portable\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\common\rd\tools;C:\Users\monika23\AppData\Local\Temp\chocolatey\ChocolateyScratch\maven\3.9.9\apache-maven-3.9.9\bin;C:\opscode\chef-workstation\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\PowerShell\7\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Users\monika23\AppData\Local\Microsoft\WindowsApps;C:\Users\monika23\AppData\Roaming\npm;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.12+8-LTS-286"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="Verify if Place is successfully added using AddPlaceAPI" classname="Validating place APIs #1" time="6.505">
+    <system-out><![CDATA[/maps/api/place/add/json
+{"status":"OK","place_id":"a3db77fb5dd7946714c7437d0327354c","scope":"APP","reference":"2a230c6d0daf942394e61a384e8fc5ae2a230c6d0daf942394e61a384e8fc5ae","id":"2a230c6d0daf942394e61a384e8fc5ae"}
+{"status":"OK","place_id":"a3db77fb5dd7946714c7437d0327354c","scope":"APP","reference":"2a230c6d0daf942394e61a384e8fc5ae2a230c6d0daf942394e61a384e8fc5ae","id":"2a230c6d0daf942394e61a384e8fc5ae"}
+]]></system-out>
+    <system-err><![CDATA[Apr 14, 2025 11:33:04 PM io.cucumber.core.options.CucumberPropertiesParser lambda$warnWhenCucumberOptionsIsUsed$2
+WARNING: Passing commandline options via the property 'cucumber.options' is no longer supported. Please use individual properties instead. See the java doc on io.cucumber.core.options.Constants for details.
+]]></system-err>
+  </testcase>
+  <testcase name="Verify if Place is successfully added using AddPlaceAPI #1" classname="Validating place APIs #2" time="2.062">
+    <system-out><![CDATA[/maps/api/place/add/json
+{"status":"OK","place_id":"a2b4f02c2e662ca2b0c57feb500a4bf0","scope":"APP","reference":"7bff42341d42b7eafccdfdac2a9aa9027bff42341d42b7eafccdfdac2a9aa902","id":"7bff42341d42b7eafccdfdac2a9aa902"}
+{"status":"OK","place_id":"a2b4f02c2e662ca2b0c57feb500a4bf0","scope":"APP","reference":"7bff42341d42b7eafccdfdac2a9aa9027bff42341d42b7eafccdfdac2a9aa902","id":"7bff42341d42b7eafccdfdac2a9aa902"}
+{"status":"OK","place_id":"a2b4f02c2e662ca2b0c57feb500a4bf0","scope":"APP","reference":"7bff42341d42b7eafccdfdac2a9aa9027bff42341d42b7eafccdfdac2a9aa902","id":"7bff42341d42b7eafccdfdac2a9aa902"}
+/maps/api/place/get/json
+{"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"AAhouse","phone_number":"(+91) 983 893 3937","address":"World cross center","types":"shoe park,shop","website":"https:\/\/rahulshettyacademy.com","language":"English"}
+]]></system-out>
+  </testcase>
+  <testcase name="Verify if Place is successfully added using AddPlaceAPI #2" classname="Validating place APIs #2" time="1.737">
+    <system-out><![CDATA[/maps/api/place/add/json
+{"status":"OK","place_id":"c732e208580d018505ef8f3462d55ed3","scope":"APP","reference":"115076a01e09f8ba75d8fc36a744f1b8115076a01e09f8ba75d8fc36a744f1b8","id":"115076a01e09f8ba75d8fc36a744f1b8"}
+{"status":"OK","place_id":"c732e208580d018505ef8f3462d55ed3","scope":"APP","reference":"115076a01e09f8ba75d8fc36a744f1b8115076a01e09f8ba75d8fc36a744f1b8","id":"115076a01e09f8ba75d8fc36a744f1b8"}
+{"status":"OK","place_id":"c732e208580d018505ef8f3462d55ed3","scope":"APP","reference":"115076a01e09f8ba75d8fc36a744f1b8115076a01e09f8ba75d8fc36a744f1b8","id":"115076a01e09f8ba75d8fc36a744f1b8"}
+/maps/api/place/get/json
+{"location":{"latitude":"-38.383494","longitude":"33.427362"},"accuracy":"50","name":"BBhouse","phone_number":"(+91) 983 893 3937","address":"Sea cross center","types":"shoe park,shop","website":"https:\/\/rahulshettyacademy.com","language":"Spanish"}
+]]></system-out>
+  </testcase>
+  <testcase name="Verify if Delete Place functionality is working" classname="Validating place APIs #2" time="2.587">
+    <system-out><![CDATA[/maps/api/place/delete/json
+{"status":"OK"}
+]]></system-out>
+  </testcase>
+</testsuite>
